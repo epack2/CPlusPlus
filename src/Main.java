@@ -23,7 +23,7 @@ class Candle {
 
         System.out.println("Ah!\n"
         + "Wonderful!!!\n"
-        + "Let ,e just light those candles for you...");
+        + "Let me just light those candles for you...");
 
         Candle[] candles = new Candle[age];
 
